@@ -1,0 +1,199 @@
+{
+  "RequestCards": [
+    {
+      "RequestTotal": 120,
+      "RequestType": "In Que",
+      "backgroundColor": "#DA7314"
+    },
+
+    {
+      "RequestTotal": 20,
+      "RequestType": "Check-Out",
+      "backgroundColor": "#22B175"
+    },
+    {
+      "RequestTotal": 80,
+      "RequestType": "Not Arrived",
+      "backgroundColor": "#BC123E"
+    },
+    {
+      "RequestTotal": 20,
+      "RequestType": "Open",
+      "backgroundColor": "#2F78EC"
+    }
+  ],
+
+  "tableRowHead": [
+    { "TblHead": "Slot #" },
+    {
+      "TblHead": "Start Time"
+    },
+    {
+      "TblHead": "Token #"
+    },
+    {
+      "TblHead": "Patient Name"
+    },
+    {
+      "TblHead": "Visiting Status"
+    },
+
+    {
+      "TblHead": "Mobile Number"
+    },
+    {
+      "TblHead": "STATUS",
+      "width":"15%"
+    }
+  ],
+
+  "tableRowHead2": [
+    { "TblHead": "Slot #" },
+    {
+      "TblHead": "Start Time"
+    },
+    {
+      "TblHead": "Token #"
+    },
+    {
+      "TblHead": "Patient Name"
+    },
+    {
+      "TblHead": "Visiting Status"
+    },
+
+    {
+      "TblHead": "Mobile Number"
+    },
+    {
+      "TblHead": "Arrival Status",
+      "width":"13%"
+    },
+    {
+      "TblHead": "Actions"
+    }
+  ],
+
+  "tableRowHead3": [
+    { 
+      "TblHead": "Full Name" 
+    },
+    {
+      "TblHead": "User-Type"
+    },
+    {
+      "TblHead": "Mobile Number"
+    },
+    {
+      "TblHead": "For Doctor"
+    },
+    {
+      "TblHead": "Access To"
+    },
+    {
+      "TblHead": "Actions"
+    }
+  ],
+
+  "tableRowCellData": [
+    {
+      "TblData": "TblData1",
+      "TblData1": "TblData1",
+      "TblData2": "TblData",
+      "TblData3": "TblData",
+      "TblData4": "TblData",
+      "TblData5": "TblData",
+      "TblData6": "Check-Out",
+      "color": "#22B175"
+    },
+    {
+      "TblData": "TblData2",
+      "TblData1": "TblData2",
+      "TblData2": "TblData",
+      "TblData3": "TblData",
+      "TblData4": "TblData",
+      "TblData5": "TblData",
+      "TblData6": "Not Arrived",
+      "color": "#BC123E"
+    },
+    {
+      "TblData": "TblData",
+      "TblData1": "TblData3",
+      "TblData2": "TblData",
+      "TblData3": "TblData",
+      "TblData4": "TblData",
+      "TblData5": "TblData",
+      "TblData6": "In Que",
+      "color": "#DA7314"
+    },
+    {
+      "TblData": "TblData",
+      "TblData1": "TblData4",
+      "TblData2": "TblData",
+      "TblData3": "TblData",
+      "TblData4": "TblData",
+      "TblData5": "TblData",
+      "TblData6": "Available",
+      "color": "#1A71FF"
+    },
+    {
+      "TblData": "TblData",
+      "TblData1": "TblData4",
+      "TblData2": "TblData",
+      "TblData3": "TblData",
+      "TblData4": "TblData",
+      "TblData5": "TblData",
+      "TblData6": "Cancelled",
+      "color": "#BC123E"
+    },
+    {
+      "TblData": "TblData",
+      "TblData1": "TblData4",
+      "TblData2": "TblData",
+      "TblData3": "TblData",
+      "TblData4": "TblData",
+      "TblData5": "TblData",
+      "TblData6": "",
+      "color": ""
+    }
+  ],
+  "TableStatus": ["Open", "Check-Out", "In Que", "Not Arrived", "Booked"],
+
+  "tableUsersRowCellData": [
+    {
+      "TblData": "TblData1",
+      "TblData1": "TblData1",
+      "TblData2": "TblData",
+      "TblData3": "TblData",
+      "color": "#22B175"
+    },
+    {
+      "TblData": "TblData2",
+      "TblData1": "TblData2",
+      "TblData2": "TblData",
+      "TblData3": "TblData",
+      "color": "#BC123E"
+    },
+    {
+      "TblData": "TblData",
+      "TblData1": "TblData3",
+      "TblData2": "TblData",
+      "TblData3": "TblData",
+      "color": "#DA7314"
+    },
+    {
+      "TblData": "TblData",
+      "TblData1": "TblData4",
+      "TblData2": "TblData",
+      "TblData3": "TblData",
+      "color": "#1A71FF"
+    },
+    {
+      "TblData": "TblData",
+      "TblData1": "TblData4",
+      "TblData2": "TblData",
+      "TblData3": "TblData",
+      "color": "#BC123E"
+    }
+  ]
+}

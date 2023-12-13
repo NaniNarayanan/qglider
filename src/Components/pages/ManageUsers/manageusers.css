@@ -1,0 +1,15 @@
+.center-image-txt {
+    margin: 6px 10px;
+    font-size: 15px;
+    text-transform: none;
+}
+
+.flx{
+    display: flex;
+    align-items: center;
+}
+
+.RowCellData{
+    padding: 5px 10px !important;
+    background: #EEF0FA;
+}

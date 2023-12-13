@@ -1,0 +1,7 @@
+.activeNav {
+    color: black;
+}
+.activeNavLi{
+    background: #bdbdbd73;
+    border-radius: 15px;
+}

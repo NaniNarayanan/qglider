@@ -1,0 +1,15 @@
+.fitCenter {
+    justify-content: center;
+    align-items: center;
+    display: flex;
+   }
+   .roundShape {
+       height: 50px;;
+       width:50px;
+       background:#007E8566;
+       border-radius: 30px;
+   }
+   
+   .widthSize {
+       width: 280px;
+   }

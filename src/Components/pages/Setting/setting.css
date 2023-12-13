@@ -1,0 +1,11 @@
+.css-o9k5xi-MuiInputBase-root-MuiOutlinedInput-root, .css-4jnixx-MuiStack-root>.MuiTextField-root{
+    width: 135px;
+}
+
+.labelgroup > label {
+    padding: 5px 0px;
+}
+
+.css-4jnixx-MuiStack-root>.MuiTextField-root{
+    min-width: 150px !important;
+}
